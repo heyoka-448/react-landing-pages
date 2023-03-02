@@ -42,7 +42,7 @@ export default function Header() {
         <div className="content">
           <Nav className="nav">
             <div className="logo">
-              <img src={logo} alt="ROGUE SHARKS" />
+              <img src={logo} alt="DANK DIAMOND" />
             </div>
             <ToggleSwitch>
               <div className="toggleBtn">
@@ -63,10 +63,10 @@ export default function Header() {
           </Nav>
           <div className="centerText">
             <h1 className="title">
-              We are
-              <br /> more than art
+              DANK
+              <br /> DIAMOND
             </h1>
-            <h3 className="desc">dive deeper</h3>
+            <h3 className="desc">MEME UTILITY TOKEN</h3>
             <hr className="vertical-line" />
           </div>
         </div>
